@@ -12,3 +12,22 @@ Assignment: Week 2 — Unit converter  people in Ghana actually use:
 
 ### Whether I Used AI
 Yes, I used AI to help me understand how to correctly use a function for conversions. Since this been my first function, I needed help understanding the syntax and how to make it work. I also learned how to use backticks and string interpolation (`${}`) to display a sentence in `console.log()`. In the end, I was able to get my code working and better understand how these concepts fit together.
+
+
+
+# Assignment Notes: Week 3 Grade Calculator
+
+### What I Built
+A grade calculator that:
+1. Finds the average of a list of scores.
+2. Gives each valid score a letter grade.
+3. Skips scores below 0 or above 100 and prints a message.
+4. Returns 0 when the list for the average is empty.
+
+### What Got Me Stuck
+* I initially confused parameters with arguments. I learned that the parameter is the input placeholder, while the argument is the actual value passed into the function.
+* I thought `return` displayed the result. I learned that it gives the result back and ends the function call, while `console.log()` displays it.
+* I needed help understanding how a loop uses array positions, starting from 0, to go through each score.
+
+### Whether I Used AI
+Yes, I used AI to explain functions and loops with simple analogies and examples. It also helped me put the code together with comments so I could understand each step. I learned more about parameters, arguments, `return`, and how to loop through a list of scores. I am still practising these concepts to become more comfortable using them on my own.
