@@ -30,6 +30,4 @@ A grade calculator that:
 * I needed help understanding how a loop uses array positions, starting from 0, to go through each score.
 
 ### Whether I Used AI
-```markdown
-### Whether I Used ASI
 Yes, I used AI to help me understand functions and loops and to help with parts of the code. The explanations helped me understand how to check scores, return grades, and calculate the average.
