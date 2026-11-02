@@ -31,3 +31,25 @@ A grade calculator that:
 
 ### Whether I Used AI
 Yes, I used AI to help me understand functions and loops and to help with parts of the code. The explanations helped me understand how to check scores, return grades, and calculate the average.
+
+
+
+# Assignment Notes: Week 4 Function Workout
+
+### What I Built
+Five functions that:
+1. Calculate the average of a list of numbers.
+2. Give a score a letter grade.
+3. Format an amount in cedis with two decimal places.
+4. Check whether a score is between 0 and 100.
+5. Return a greeting using my own function
+
+I rewrote my Week 3 grade calculator using these functions and kept the Week 3 file unchanged.
+
+### What Got Me Stuck
+* I understood what functions do, but their structure was still confusing.
+* I needed more practice telling parameters and arguments apart.
+* I needed help understanding how a returned value gets used outside the function.
+
+### Whether I Used AI
+Yes, I used AI to help explain the structure of functions using simple examples. I practised identifying the function name, parameter, argument and return statement. I understand them better now.
