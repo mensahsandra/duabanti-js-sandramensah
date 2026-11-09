@@ -53,3 +53,15 @@ I rewrote my Week 3 grade calculator using these functions and kept the Week 3 f
 
 ### Whether I Used AI
 Yes, I used AI to help explain the structure of functions using simple examples. I practised identifying the function name, parameter, argument and return statement. I understand them better now.
+
+
+
+# Assignment Notes: Week 5 Array Workout
+## What I Built
+I worked with an array of eight student objects. I wrote functions to get their names, find passing students, total their scores, find the top scorer and rank them by score. I also printed a summary.
+
+## What Got Me Stuck
+I struggled with the braces and brackets when using map(). When I did not understand examples from the lesson, I copied it into VS Code, saved it and ran it to see what happened.
+
+## Whether I Used AI
+Yes, I used AI to unpack and explain parts I did not understand. Analogies and practice questions helped me understand better.
