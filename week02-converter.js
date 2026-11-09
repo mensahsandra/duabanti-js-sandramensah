@@ -12,7 +12,7 @@ function cedisToDollars(cedis) {
 // 2. From Kilometers to Miles
 // Conversion Factor: 1 kilometer = 0.621371 miles
 
-function kilometersToMiles(kilometers) {
+function kmToMiles(kilometers) {
     const conversionFactor = 0.621371;
     return kilometers * conversionFactor;
 }
@@ -20,7 +20,7 @@ function kilometersToMiles(kilometers) {
 // 3. From Celsius to Fahrenheit
 // Conversion Formula: (°C × 9/5) + 32 = °F
 
-function celsiusToFarienheit(celsius) {
+function celsiusToFahrenheit(celsius) {
     return (celsius * 9/5) + 32;
 }
 
@@ -29,5 +29,5 @@ const distanceKilometers = 20;
 const temperatureCelsius = 100;
 
 console.log(`A gifted ${currencyCedis} GHS cedis is ${cedisToDollars(currencyCedis).toFixed(2)} USD dollars.`);
-console.log(`The distance of ${distanceKilometers} kilometers is about ${kilometersToMiles(distanceKilometers).toFixed(2)} miles.`);
-console.log(`The temperature of ${temperatureCelsius}°C is ${celsiusToFarienheit(temperatureCelsius).toFixed(2)}°F.`);
+console.log(`The distance of ${distanceKilometers} kilometers is about ${kmToMiles(distanceKilometers).toFixed(2)} miles.`);
+console.log(`The temperature of ${temperatureCelsius}°C is ${celsiusToFahrenheit(temperatureCelsius).toFixed(2)}°F.`);

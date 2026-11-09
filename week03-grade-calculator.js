@@ -1,6 +1,6 @@
 function isValidScore(score) {
   // A score must be between 0 and 100.
-  if (score < 0 || score > 100) {
+  if (Number.isNaN(score) || score < 0 || score > 100) {
     return false;
   } else {
     return true;
